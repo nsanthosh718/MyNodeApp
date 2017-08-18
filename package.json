@@ -1,0 +1,22 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nsanthosh718@github.com/nsanthosh718/MyNodeApp.git"
+  },
+  "author": "Santhosh Nellutla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsanthosh718/MyNodeApp/issues"
+  },
+  "homepage": "https://github.com/nsanthosh718/MyNodeApp#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
