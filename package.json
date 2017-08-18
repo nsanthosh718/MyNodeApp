@@ -1,7 +1,7 @@
 {
   "name": "mynodeapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "First Node.js Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/nsanthosh718/MyNodeApp#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "reload": "^1.0.0",
+    "socket.io": "^1.4.8",
+    "body-parser": "^1.15.2",
+    "ejs": "^2.4.2"
   }
 }
